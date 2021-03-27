@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443794686462",
+    "project_id": "todolists-feb58",
+    "storage_bucket": "todolists-feb58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443794686462:android:dda5cb3c84818e63c8c0af",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443794686462-c1n5sgnkf5slm4n5osqjrigvvot6j71t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb0U0RR_fuVBlqP6vZKUPYXZDgNfa-l8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443794686462-c1n5sgnkf5slm4n5osqjrigvvot6j71t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
