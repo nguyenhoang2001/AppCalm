@@ -1,16 +1,17 @@
-# flutter_app2
+# CALM - Community Aware of Lifelong Medical care
+***
+## About our app
+***
+CALM. This is an app that help you change your lifestyle healthier. We provide users 3 main tab: 
 
-A new Flutter application.
+(1)"NCOVID-19": Showing basic information about risk disease, 
 
-## Getting Started
+(2)"Top News": Where people can update knowledge of wellbeing via news, 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(3) "Thread": We create a community for users can interact with each other by writting posts to not only share their knowledge about illness or healthy lifestyle(example: a routine to keep your body fit) but also ask for help from other users when they are encountering physical disease or mental problems. In addition, people can also comment on each post to answer or approve any good advices to have a better health.
+## Technology Used
+***
+* Android
+* Firebase
+* Flutter
+* Newsapi.org
