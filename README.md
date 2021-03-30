@@ -2,7 +2,7 @@
 ***
 ## About our app
 ***
-CALM. This is an app that help you change your lifestyle healthier. We provide users 3 main tab: 
+CALM. This is an app that help people change their lifestyle healthier. We provide users 3 main tab: 
 
 (1)"NCOVID-19": Showing basic information about risk disease, 
 
