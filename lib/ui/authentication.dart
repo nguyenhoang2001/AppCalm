@@ -15,7 +15,6 @@ class _AuthenticationState extends State<Authentication> with TickerProviderStat
 
   @override
   Widget build(BuildContext context) {
-
     return Scaffold(
       body : Container(
         decoration: BoxDecoration(

@@ -57,7 +57,7 @@ dependencies:
 flutter_icons:
   android: true
   ios: true
-  image_path: "asset/icon.png"
+  image_path: "asset/CALM2.png"
 
 dev_dependencies:
   flutter_test:
